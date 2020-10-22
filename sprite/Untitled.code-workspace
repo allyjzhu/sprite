@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/p5.play-master"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../background"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5506,
+		"liveServer.settings.multiRootWorkspaceName": "sprite"
+	}
+}
